@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/newsdragon/static/css/main.e2bea9f8.css",
+    "main.js": "/newsdragon/static/js/main.96f03984.js",
+    "static/js/787.9a748b14.chunk.js": "/newsdragon/static/js/787.9a748b14.chunk.js",
+    "static/media/spinner.gif": "/newsdragon/static/media/spinner.2301de62133e14ff0ab8.gif",
+    "index.html": "/newsdragon/index.html",
+    "main.e2bea9f8.css.map": "/newsdragon/static/css/main.e2bea9f8.css.map",
+    "main.96f03984.js.map": "/newsdragon/static/js/main.96f03984.js.map",
+    "787.9a748b14.chunk.js.map": "/newsdragon/static/js/787.9a748b14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2bea9f8.css",
+    "static/js/main.96f03984.js"
+  ]
+}
