@@ -1,0 +1,21 @@
+.heading {
+  text-align: center;
+  
+}
+.card p{
+  overflow: hidden;
+  height: 100px;
+}
+.spinner{
+  position: absolute;
+  right: 0;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  opacity: 0.9;
+  z-index: 12;
+}
+.start-100 {
+  left: 10%!important;
+}
